@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente na área de Front-End
 - 🌱 Estudando JavaScript
-- 🏫 Curssando Análise e Desenvolvimento de Sistemas
-- 📫 Contacte me E-mai: gusstavo.programador.com.br
+- 🏫 Cursando Análise e Desenvolvimento de Sistemas
+- 📫 Contacte-me E-mai: gusstavo.programador.com.br
 - 😄 Pronouns: Ele/Dele
 
